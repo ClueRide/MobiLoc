@@ -39,7 +39,7 @@
         "@ionic/storage": "^2.1.3",
         "@types/leaflet": "^1.2.0",
         "@types/leaflet.awesome-markers": "^2.0.4",
-        "ajv": "^5.0.1",
+        "ajv": "^6.12.3",
         "cordova-android": "^6.2.3",
         "cordova-browser": "6.0.0",
         "cordova-ios": "^4.4.0",
